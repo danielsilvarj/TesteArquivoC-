@@ -1,0 +1,42 @@
+C:\Users\1511 MXTI\source\repos\SlnTestesUnitarios\MyClassesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\1511 MXTI\source\repos\SlnTestesUnitarios\MyClassesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\1511 MXTI\source\repos\SlnTestesUnitarios\MyClassesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\1511 MXTI\source\repos\SlnTestesUnitarios\MyClassesTest\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\1511 MXTI\source\repos\SlnTestesUnitarios\MyClassesTest\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\1511 MXTI\source\repos\SlnTestesUnitarios\MyClassesTest\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\1511 MXTI\source\repos\SlnTestesUnitarios\MyClassesTest\bin\Debug\MyClassesTest.dll
+C:\Users\1511 MXTI\source\repos\SlnTestesUnitarios\MyClassesTest\bin\Debug\MyClassesTest.pdb
+C:\Users\1511 MXTI\source\repos\SlnTestesUnitarios\MyClassesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\1511 MXTI\source\repos\SlnTestesUnitarios\MyClassesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\1511 MXTI\source\repos\SlnTestesUnitarios\MyClassesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\1511 MXTI\source\repos\SlnTestesUnitarios\MyClassesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\1511 MXTI\source\repos\SlnTestesUnitarios\MyClassesTest\obj\Debug\MyClassesTest.csprojAssemblyReference.cache
+C:\Users\1511 MXTI\source\repos\SlnTestesUnitarios\MyClassesTest\obj\Debug\MyClassesTest.csproj.CoreCompileInputs.cache
+C:\Users\1511 MXTI\source\repos\SlnTestesUnitarios\MyClassesTest\obj\Debug\MyClassesTest.csproj.CopyComplete
+C:\Users\1511 MXTI\source\repos\SlnTestesUnitarios\MyClassesTest\obj\Debug\MyClassesTest.dll
+C:\Users\1511 MXTI\source\repos\SlnTestesUnitarios\MyClassesTest\obj\Debug\MyClassesTest.pdb
+C:\Users\1511 MXTI\source\repos\SlnTestesUnitarios\MyClassesTest\bin\Debug\MyClasses.dll
+C:\Users\1511 MXTI\source\repos\SlnTestesUnitarios\MyClassesTest\bin\Debug\MyClasses.pdb
+C:\Users\1511 MXTI\source\repos\SlnTestesUnitarios\MyClassesTest\bin\Debug\MyClassesTest.dll.config
+C:\Users\1511 MXTI\source\repos\SlnTestesUnitarios\MyClassesTest\bin\Debug\FileToDeploy.txt
+C:\Projetos\C#\SlnTestesUnitarios\MyClassesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Projetos\C#\SlnTestesUnitarios\MyClassesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Projetos\C#\SlnTestesUnitarios\MyClassesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Projetos\C#\SlnTestesUnitarios\MyClassesTest\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Projetos\C#\SlnTestesUnitarios\MyClassesTest\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Projetos\C#\SlnTestesUnitarios\MyClassesTest\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Projetos\C#\SlnTestesUnitarios\MyClassesTest\bin\Debug\FileToDeploy.txt
+C:\Projetos\C#\SlnTestesUnitarios\MyClassesTest\bin\Debug\MyClassesTest.dll.config
+C:\Projetos\C#\SlnTestesUnitarios\MyClassesTest\bin\Debug\MyClassesTest.dll
+C:\Projetos\C#\SlnTestesUnitarios\MyClassesTest\bin\Debug\MyClassesTest.pdb
+C:\Projetos\C#\SlnTestesUnitarios\MyClassesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Projetos\C#\SlnTestesUnitarios\MyClassesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Projetos\C#\SlnTestesUnitarios\MyClassesTest\bin\Debug\MyClasses.dll
+C:\Projetos\C#\SlnTestesUnitarios\MyClassesTest\bin\Debug\MyClasses.pdb
+C:\Projetos\C#\SlnTestesUnitarios\MyClassesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Projetos\C#\SlnTestesUnitarios\MyClassesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Projetos\C#\SlnTestesUnitarios\MyClassesTest\obj\Debug\MyClassesTest.csprojAssemblyReference.cache
+C:\Projetos\C#\SlnTestesUnitarios\MyClassesTest\obj\Debug\MyClassesTest.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\SlnTestesUnitarios\MyClassesTest\obj\Debug\MyClassesTest.csproj.CopyComplete
+C:\Projetos\C#\SlnTestesUnitarios\MyClassesTest\obj\Debug\MyClassesTest.dll
+C:\Projetos\C#\SlnTestesUnitarios\MyClassesTest\obj\Debug\MyClassesTest.pdb
